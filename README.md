@@ -38,11 +38,12 @@ _El despliege esta en oracle cloud: http://144.22.48.25:3000_
 
 ## Swagger 📖
 
-_Para ver la documentacion de la api_
+_Para ver la documentacion de la api, con todos los endpoints y sus respectivos parametros._
 
 ```
 http://144.22.48.25:3000
 ```
+
 
 ## Construido con 🛠️
 
