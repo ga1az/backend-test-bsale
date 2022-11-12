@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Backend prueba tecncica
 
 Frontend de la prueba tecnica de la empresa [Bsale](https://www.bsale.cl/)
 
